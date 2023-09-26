@@ -15,25 +15,21 @@ export default function Header() {
 						Department
 					</NavLink>
 				</li>
-
 				<li>
 					<NavLink to='/gallery' activeClassName={styles.active}>
 						Gallery
 					</NavLink>
 				</li>
-
 				<li>
 					<NavLink to='/youtube' activeClassName={styles.active}>
 						Youtube
 					</NavLink>
 				</li>
-
 				<li>
 					<NavLink to='/members' activeClassName={styles.active}>
 						Members
 					</NavLink>
 				</li>
-
 				<li>
 					<NavLink to='/contact' activeClassName={styles.active}>
 						Contact
